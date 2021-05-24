@@ -58,7 +58,7 @@ function changeCell(){
 	sapNum=$1;
 
 if [[ $cell == 'v' ]];then
-	xdg-open https://praktiker.bg/bg/Granitogres/GRANITOGRES-KAI-DUROSTONE-ChERVEN/p/$sapNum;
+	xdg-open https://praktiker.bg/p/$sapNum;
 
 	
 fi
